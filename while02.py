@@ -25,3 +25,5 @@ while op:
         op = False
 print("Fin del programa")
 
+""" fin del programa un comentario para la posteridad"""
+
